@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    background: #000000;
+    font-family: 'Open Sans','Helvetica Neue',helvetica,arial,verdana,'Hiragino Sans GB','冬青黑体简体中文','Microsoft YaHei','微软雅黑',STXihei,'华文黑体',SimSun,'中易宋体',sans-serif;
+}
+
+/*body > div > span {
+    line-height: 4rem!important;
+    font-size: 2rem;
+}*/
+
+.center-align-text{
+    text-align: center;
+}
+
+.show-bar{
+    height: 4rem;
+    line-height: 4rem;
+    color: #ffffff;
+}
+
+.col{
+    padding: 0!important;
+}
+
+.row{
+    margin: 0!important;
+}
